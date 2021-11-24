@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AltairWon
 - 👀 I’m interested in singing a song and coding
-- 🌱 I’m currently learning Android in Kotlin
-- 💞️ I’m looking to collaborate on making application in Kotlin
+- 🌱 I’m starting web application developer with using Java and Spring
+- 💞️ I’m looking to collaborate on making web application
 - 📫 How to reach me wonhyokjun@gmail.com
 
 <!---
